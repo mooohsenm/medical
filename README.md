@@ -7,7 +7,7 @@
 
 <b>Get</b> => http://localhost:8080/all <br/>
 <b>Delete</b> => http://localhost:8080/all <br/>
-<b>Post</b> => http://localhost:8080/upload <br/>
+<b>Post</b>(.csv file) => http://localhost:8080/upload <br/>
 <b>Post</b> => http://localhost:8080/add-sample <br/>
 <b>Get </b> => http://localhost:8080/exercise/{code}
 
